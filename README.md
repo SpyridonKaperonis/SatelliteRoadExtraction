@@ -8,7 +8,7 @@ This project uses generative auto encoder to recognize roads on satellite images
 
 ### Results:
 
-<img src='./images/test_dataPrediction.png' alt='road' width='300' />
-<img src='./images/valData_prediction.png' alt='road' width='300' /> 
+<img src='./images/test_dataPrediction.png' alt='road' width='600' />
+<img src='./images/valData_prediction.png' alt='road' width='600' /> 
 
 
