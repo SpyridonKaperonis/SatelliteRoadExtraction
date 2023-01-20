@@ -1,4 +1,6 @@
 # SatelliteRoadExtraction
+<img src='./images/autoencoder.png' alt='road' width='250' />
+
 This project uses generative auto encoder to recognize roads on satellite images.
 
 ### Training data: 
